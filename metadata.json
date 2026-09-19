@@ -1,0 +1,6 @@
+{
+  "name": "Flashy Tic Tac Toe",
+  "description": "An electrifying Tic Tac Toe game with dynamic turn audio for each player, triumphant victory fanfare music, and neon visual effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
